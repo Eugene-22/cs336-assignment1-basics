@@ -161,3 +161,22 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Data & outputs
+data/
+outputs/
+logs/
+runs/
+lightning_logs/
