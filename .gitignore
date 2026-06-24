@@ -180,3 +180,7 @@ outputs/
 logs/
 runs/
 lightning_logs/
+
+# Agent
+CLAUDE.md
+AGENTS.md
